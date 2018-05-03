@@ -1,3 +1,2 @@
-# PurePlugins
-ALPHA-12 Updated Plugins
-If you have trouble with this plugin contact JustinFromMCPE$0146 on Discord!
+## PocketMine PurePerms // PureChat
+3.0.0-ALPHA12 // Supported for Minecraft Server Version: 1.12.13
